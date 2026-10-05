@@ -1,4 +1,4 @@
-# Hi, I'm Tobi 👋
+# Hi, I'm Tobias 👋
 
 ### Software Engineer | Full-Stack, Systems & AI
 
