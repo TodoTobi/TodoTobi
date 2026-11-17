@@ -1,3 +1,5 @@
+**English** | [Español](./README.es.md)
+
 # Hi, I'm Tobias 👋
 
 ### Open-Source Developer | Full-Stack & AI · Argentina 🇦🇷
@@ -15,15 +17,15 @@
 
 #### 🗓️ [Ritmo — Intelligent Focus & Time Management Engine](https://github.com/TodoTobi/ritmo-calendario-pro)
 *Next.js 14 (App Router) · TypeScript · Supabase (PostgreSQL 16) · Google Gemini 2.0 Flash · Telegram Bot API*
-- Opinionated time-management system enforcing mathematical time-tier hierarchies with Gemini 2.0 Flash and RFC 7807 error handling. \$0/month operational ceiling.
+- Opinionated time-management system enforcing mathematical time-tier hierarchies with Gemini 2.0 Flash and RFC 7807 error handling. $0/month operational ceiling.
 
-#### 👁️ [Sintaxia — Computer Vision & Real-Time 3D Pipeline](https://github.com/TodoTobi/Syntaxia)
-*Python · Flask · YOLOv5 · React · WebSockets*
-- Low-latency YOLOv5 image processing pipeline streaming structured JSON over WebSockets for real-time 3D visualization.
+#### 👁️ [Sintaxia — Educational TICs Chatbot & 3D Vision Pipeline](https://github.com/TodoTobi/Syntaxia_GIT)
+*Python · Flask · YOLOv5 · OpenCV · Three.js · Groq API*
+- Educational TICs chatbot combining YOLOv5 computer-vision detection with a browser-based Three.js 3D `.obj` model viewer.
 
-#### 📦 [TIC Inventory & Asset Management](https://github.com/TodoTobi/Tic-Stock)
-*Full-Stack Web · Barcode Scanning · PostgreSQL / MySQL*
-- Institutional inventory system; real-time barcode scanning reduced manual auditing overhead by ~30% (~100 min/week).
+#### 🎫 [Ticket System — Classroom IT Help Desk API](https://github.com/TodoTobi/ticket-system)
+*Node.js (ESM) · Express · Prisma · PostgreSQL 16 · JWT*
+- Authenticated REST API for technical incident reporting and full ticket lifecycle tracking across TICs & Multimedia classrooms.
 
 #### 🎙️ [Sistema — Distributed Voice Assistance & Multi-Agent Core](https://github.com/TodoTobi/Sistema)
 *Python · Multi-Agent Systems · LLM Intent Classification*
