@@ -19,17 +19,14 @@
 *Next.js 14 (App Router) · TypeScript · Supabase (PostgreSQL 16) · Google Gemini 2.0 Flash · Telegram Bot API*
 - Opinionated time-management system enforcing mathematical time-tier hierarchies with Gemini 2.0 Flash and RFC 7807 error handling. $0/month operational ceiling.
 
-#### 👁️ [Sintaxia — Educational TICs Chatbot & 3D Vision Pipeline](https://github.com/TodoTobi/Syntaxia_GIT)
-*Python · Flask · YOLOv5 · OpenCV · Three.js · Groq API*
-- Educational TICs chatbot combining YOLOv5 computer-vision detection with a browser-based Three.js 3D `.obj` model viewer.
+#### 🤖 [Gentle AI Harness — Surgical Multi-Agent Development OS](https://github.com/TodoTobi/gentle-ai-harness)
+*TypeScript · MCP · Multi-Agent Systems · AI SDK*
+- Opinionated harness for orchestrating AI coding agents with structured workflows (`/bug`, `/feature`, `/db`, `/refactor`), dual-tier memory (Engram MCP + local context), and a Surgical Execution model that keeps agents focused and token-efficient.
+- Powers the agent backbone used across projects like TobiTests and VetConnect.
 
 #### 🎫 [Ticket System — Classroom IT Help Desk API](https://github.com/TodoTobi/ticket-system)
 *Node.js (ESM) · Express · Prisma · PostgreSQL 16 · JWT*
 - Authenticated REST API for technical incident reporting and full ticket lifecycle tracking across TICs & Multimedia classrooms.
-
-#### 🎙️ [Sistema — Distributed Voice Assistance & Multi-Agent Core](https://github.com/TodoTobi/Sistema)
-*Python · Multi-Agent Systems · LLM Intent Classification*
-- Distributed voice assistance architecture over a local network with LLM-based real-time intent parsing.
 
 ---
 
